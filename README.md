@@ -1,4 +1,4 @@
-<img align="right" height="450em" src="https://raw.githubusercontent.com/gist/LopesA95/fe67eb3a5794edd949becf0e62e88380/raw/62bed68da7d44b38a1e49a20da7cb44c062917b7/githubcard.svg"/>
+<img align="right" height="450em" src="https://raw.githubusercontent.com/gist/Dev-Lops/fe67eb3a5794edd949becf0e62e88380/raw/62bed68da7d44b38a1e49a20da7cb44c062917b7/githubcard.svg"/>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=200&size=25&pause=1000&color=F77709&multiline=true&random=false&width=550&lines=Ol%C3%A1%2C+me+chamo+Anderson!+Seja+bem+vindo+%F0%9F%98%81)](https://git.io/typing-svg)
@@ -50,13 +50,6 @@ Sigo buscando conhecimento constantemente e me atualizo sempre no que o mercado 
 
 <p>Um dia sem tentar é um dia perdido. 👣</p>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Lops/lopesa95/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Lops/lopesa95/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dev-Lops/lopesa95/output/github-contribution-grid-snake.svg">
-</picture>
-<br><br>
 
 
 
