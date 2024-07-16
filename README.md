@@ -1,4 +1,4 @@
-<img align="right" height="450em" src="https://raw.githubusercontent.com/gist/Dev-Lops/fe67eb3a5794edd949becf0e62e88380/raw/62bed68da7d44b38a1e49a20da7cb44c062917b7/githubcard.svg"/>
+
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=200&size=25&pause=1000&color=F77709&multiline=true&random=false&width=550&lines=Ol%C3%A1%2C+me+chamo+Anderson!+Seja+bem+vindo+%F0%9F%98%81)](https://git.io/typing-svg)
