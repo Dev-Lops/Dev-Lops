@@ -44,7 +44,7 @@ Sigo buscando conhecimento constantemente e me atualizo sempre no que o mercado 
 
 <h3>GitHub Stats</h3>
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dev-Lops&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=30&hide=issues&bg_color=000&title_color=FF5733&text_color=FFF&border_radius=3&border_color=FF5733&icon_color=FF5733&theme=jolly)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dev-Lops&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=30&hide=issues&bg_color=000&title_color=FF5733&text_color=FFF&border_radius=3&border_color=FF5733&icon_color=FF5733&theme=jolly)
 [![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dev-Lops&line_height=10&card_width=300&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=FF5733&hide=html,css&bg_color=000&text_color=FF5733&border_radius=3&border_color=FF5733&count_private=true)](https://github.com/lopesa95/github-readme-stats)
 <br>
 
