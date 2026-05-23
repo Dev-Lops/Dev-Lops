@@ -3,17 +3,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat+Slab&weight=200&size=25&pause=1000&color=c1ff72&multiline=true&random=false&width=550&lines=Ol%C3%A1%2C+me+chamo+Anderson!+Seja+bem+vindo+%F0%9F%98%81)](https://git.io/typing-svg)
 
-<p align="left">Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Uninorte, Engenharia de Software pela Estacio e Engenharia de Front End pela EBAC, possuo tambem diploma de Engenharia Civil.
-Tenho conhecimento Avançado nas Techs básicas do Fron-End como HTML5, Css e JavaScript tambem possuo conhecimento avaçando em ReactJs, VueJs, JQuery, Redux, TailwindCss, Cypress e dominio sólido em versionamento de código com o git e github.
+<p align="left">Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Uninorte e sou formado em Engenharia de Front End pela EBAC.
 Sigo buscando conhecimento constantemente e me atualizo sempre no que o mercado mais utiliza, adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev-Lops&color=green" alt="Profile views" /> </p>
 
 </details>
 
-- 🔥 Desenvolvedor Front End 😁
+- 🔥 Desenvolvedor Full Stack 😁
 
-- 💬 Pergunte-me sobre **JavaScript, HTML, CSS, SQL, Node.JS, React, TailwindCss, jQuery e Sass**
+- 💬 Pergunte-me sobre **JavaScript, HTML, CSS, SQL, Node.JS, React, TailwindCss, Python**
 
 ## 🛠 &nbsp; Tech's 😜
 
@@ -38,8 +37,8 @@ Sigo buscando conhecimento constantemente e me atualizo sempre no que o mercado 
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF5733&color:FFF)](mailto:developes.anderson@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF5733&color:FFF)](https://www.linkedin.com/in/andersonloopzdev/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF5733&color:FFF)](mailto:aslopes095@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF5733&color:FFF)]((https://www.linkedin.com/in/andersondevlps/))
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF5733&color:FFF)](https://www.instagram.com/_dev.lops/)
 
 <h3>GitHub Stats</h3>
